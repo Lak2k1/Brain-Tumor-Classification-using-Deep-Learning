@@ -9,4 +9,6 @@ We used the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnick
 
 ## Model Architecture
 Our model consists of a sequence of convolutional, pooling, and dropout layers, followed by fully connected layers for classification. The architecture of our model is as follows:
+
+
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/model%20architecture.png)
