@@ -1,5 +1,4 @@
 # Brain Tumor Classification using Deep Learning
-## Brain Tumor Classification using Deep Learning
 This repository contains the code and dataset for a deep learning model that can classify brain tumor images into different categories. The model uses Convolutional Neural Networks (CNNs), Convolution 2D, Batch Normalization, Max Pooling, and Dropout techniques for optimal performance.
 
 We trained the model on pre-trained networks such as VGG16, VGG19, and ResNet50, but in the end, we developed a better model that achieved higher accuracy, F1 score, precision, and recall. We also used the ImageDataGenerator function to overcome the exhausted memory error.
