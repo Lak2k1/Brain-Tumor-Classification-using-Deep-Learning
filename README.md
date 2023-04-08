@@ -16,7 +16,12 @@ Our model consists of a sequence of convolutional, pooling, and dropout layers, 
 ## This is how the model worked on test dataset
 - The classification report for the model. The report is for classifying whether is able to detect the presence of a tumor.
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/classification%20report.png)
+
 - Confusion Matrix
+
+
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/confusion%20matrix.png)
+
+
 - The loss and model accuracy calculated on test dataset
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/loss%2Caccuracy.png)
