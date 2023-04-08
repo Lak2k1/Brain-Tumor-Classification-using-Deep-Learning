@@ -7,7 +7,7 @@ We trained the model on pre-trained networks such as VGG16, VGG19, and ResNet50,
 ## Dataset
 We used the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from Kaggle for training and testing our model.This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: glioma ,meningioma ,no tumor and pituitary.
 
-## Model Architecture
+## Proposed Model Architecture
 Our model consists of a sequence of convolutional, pooling, and dropout layers, followed by fully connected layers for classification. The architecture of our model is as follows:
 
 
