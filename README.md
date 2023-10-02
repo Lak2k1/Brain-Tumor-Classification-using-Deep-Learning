@@ -33,6 +33,8 @@ Our model consists of a sequence of convolutional, pooling, and dropout layers, 
 
 
 - Results on each class
+
+  
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/results.png)
 
   
