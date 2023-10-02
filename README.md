@@ -7,7 +7,7 @@ We trained the model on pre-trained networks such as VGG16, VGG19, and ResNet50,
 We used the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from Kaggle for training and testing our model.This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: glioma ,meningioma ,no tumor and pituitary.
 
 ## Proposed Model Architecture
-Our model consists of a sequence of convolutional, pooling, and dropout layers, followed by fully connected layers for classification. The architecture of our model is as follows:
+Our model consists of a sequence of convolutional, batch normalization  and pooling, followed by fully connected layers for classification. The architecture of our model is as follows:
 
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/Model%20architecture.png)
 
