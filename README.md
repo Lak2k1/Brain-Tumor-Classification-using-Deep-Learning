@@ -18,11 +18,24 @@ Our model consists of a sequence of convolutional, pooling, and dropout layers, 
 
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/classification%20report.png)
 
-- Confusion Matrix
+
+- Confusion matrix for multiclass
+
+  
+![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/confusion%20matrix%20multiclass.png)
+
+- Confusion Matrix for presence of tumor 
 
 
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/confusion%20matrix.png)
 
+
+
+
+- Results on each class
+![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/results.png)
+
+  
 
 - The loss and model accuracy calculated on test dataset
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/loss%2Caccuracy.png)
