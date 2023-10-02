@@ -12,6 +12,14 @@ Our model consists of a sequence of convolutional, pooling, and dropout layers, 
 
 ![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/images/model%20architecture.png)
 
+
+
+
+
+
+![](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning/blob/main/Model%20architecture.png)
+
+
 ## This is how the model worked on test dataset
 - The classification report for the model. The report is for classifying whether is able to detect the presence of a tumor.
 
